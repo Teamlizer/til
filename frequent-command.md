@@ -19,6 +19,6 @@ alias z='fasd_cd -d'     # cd, same functionality as j in autojump
 alias zz='fasd_cd -d -i' # cd with interactive selection
 ```
 
-- Open pdf **open `sf pdf`**, then choose number
+- Open pdf **open \`sf pdf\`**, then choose number
 - Change directory **zz**, then choose number
-- Open file with vi **vi `f -i`**, then choose number
+- Open file with vi **vi \`f -i\`**, then choose number
